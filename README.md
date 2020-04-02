@@ -23,7 +23,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 ## 第1回MDDSC機械学習コンペティション 2018年11月~2019年1月
 
 - インプリメント賞（モデリング賞）の為の事例用Pythonプログラム「深層学習による実験用マウス系統の画像分類モデル」をGoogle Colabで作成しました。
-- 応募投稿フォームの画像キャプチャ
+- 応募投稿フォームを11月7日~1月11日まで公開しました。
 
 <table>
 <tr>
@@ -31,6 +31,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 <td><img src="MLCOMP_Colab.PNG" alt="MLCOMP Colab" title="MLCOMP Colab" width="360" align="middle" border="1" /></td>
 </tr>
 </table>
+
 ----
 ----
 
