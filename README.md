@@ -1,16 +1,3 @@
-
-# Link
-- [README](#README)
-- [使い方](#使い方)
-
-## README
-
-README
-
-## 使い方
-
-使い方
-
 ## MDDSC([医療・創薬データサイエンスコンソーシアム](http://md-dsc.com/))の2018年度教材
 e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Google Colabのプログラム実習教材、を提供しています。
 2018.4.1から2年間有効です。
@@ -18,9 +5,9 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 - **[1]次世代シーケンサ解析第 1回 2018.7.4** [[目次](#NGS1)]
 - **[2]次世代シーケンサ解析第 2回 2018.7.11** [[目次](#NGS2)]
 - **[3]次世代シーケンサ解析第 3回 2018.8.1** [[目次](#NGS3)]
-- **[4]Linux実習（必要により追加した実習）2018.11.27** [目次、Google Colab実習]
+- **[4]Linux実習（必要により追加した実習）2018.11.27** [[目次](#LINUX)、Google Colab実習]
 - **[5]2018年度 Amazon Web Service機械学習PBLセミナー アイデアソン　2018.11.7** [[開催報告](http://md-dsc.com/events/20181107event.php),スライド]
-- **[6]第1回MDDSC機械学習コンペティション2019.1.22** [[開催報告](http://md-dsc.com/events/20190122event.php), Google Colab事例,スライド]
+- **[6]第1回MDDSC機械学習コンペティション2019.1.22** [[開催報告](http://md-dsc.com/events/20190122event.php), Google Colab事例,[紹介スライド](MDDSC_MLコンペ紹介181228.pdf)]
 
 ----
 
@@ -53,6 +40,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 
 ##LINUX実習でのコマンドリスト・ファイル拡張子リスト
 
+## LINUX
 -- <img src="LINUXCMD_LIST2.PNG" alt="LINUX_LIST1.png" title="LINUX2018-1-CONTENTS" width="640" />
 -- <img src="LINUXCMD_LIST1.PNG" alt="LINUX_LIST2.png" title="LINUX2018-2-CONTENTS" width="640" />
 -- <img src="FILEEXT_LIST.PNG" alt="FILEEXT_LIST.png" title="LINUX2018-3-CONTENTS" width="640" />
