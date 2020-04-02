@@ -24,7 +24,8 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 
 - インプリメント賞（モデリング賞）の為の事例用PythonプログラムをGoogle Colabで作成しました。
 - 応募投稿フォームの画像キャプチャ
-　　　　<img src="MLCOMP1_Form.PNG" alt="MLCOMP FORM" title="MLCOMP" width="480" align="middle" />
+
+<img src="MLCOMP1_Form.PNG" alt="MLCOMP FORM" title="MLCOMP" width="480" align="middle" />
  
 ----
 ----
