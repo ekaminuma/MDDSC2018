@@ -7,7 +7,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 - **[3]次世代シーケンサ解析第 3回 2018.8.1** [[目次](#NGS3)]
 - **[4]Linux実習（必要により追加した実習）2018.11.27** [[目次](#LINUX)、[Google Colab](MDDSC_A1802.ipynb)]
 - **[5]2018年度 Amazon Web Service機械学習PBLセミナー アイデアソン　2018.11.7** [[開催報告](http://md-dsc.com/events/20181107event.php),[スライド](EK_AWSPBL181107.pdf)]
-- **[6]第1回MDDSC機械学習コンペティション2019.1.22** [[開催報告](http://md-dsc.com/events/20190122event.php), Google Colab事例,[紹介スライド](MDDSC_MLコンペ紹介181228.pdf)]
+- **[6]第1回MDDSC機械学習コンペティション2019.1.22** [[開催報告](http://md-dsc.com/events/20190122event.php), [Google Colab事例](MDDSC_A1803.ipynb), [紹介スライド](MDDSC_MLコンペ紹介181228.pdf)]
 
 ----
 
@@ -26,7 +26,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 - 応募投稿フォームの画像キャプチャ
 
 <img src="MLCOMP1_Form.PNG" alt="MLCOMP FORM" title="MLCOMP" width="480" align="middle" />
- 
+<img src="MLCOMP_Colab.PNG" alt="MLCOMP Colab" title="MLCOMP Colab" width="480" align="middle" /> 
 ----
 ----
 
