@@ -1,5 +1,5 @@
 
-## MDDSC(医療・創薬データサイエンスコンソーシアム)の2018年度教材
+## MDDSC([医療・創薬データサイエンスコンソーシアム](http://md-dsc.com/))の2018年度教材
 e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Google Colabのプログラム実習教材、で提供しています。
 
 - **[1]次世代シーケンサ解析第 1回 2018.7.4** [[目次](https://github.com/ekaminuma/MDDSC2018/blob/master/README.md#NGS1)]
