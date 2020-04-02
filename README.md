@@ -6,9 +6,9 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 - **[2]次世代シーケンサ解析第 2回 2018.7.11** [[目次](#NGS2)]
 - **[3]次世代シーケンサ解析第 3回 2018.8.1** [[目次](#NGS3)]
 - **[4]Linux実習（必要により追加した実習）2018.11.27** [[コマンドリスト](#LINUX)、[Google Colab](MDDSC_A1802.ipynb)]
-- **[5]2018年度 Amazon Web Service機械学習PBLセミナー アイデアソン　2018.11.7** [[開催報告](http://md-dsc.com/events/20181107event.php)、[スライド](EK_AWSPBL181107.pdf)]
-- **[6]第1回MDDSC機械学習コンペティション2019.1.22** [[開催報告](http://md-dsc.com/events/20190122event.php)、 [Google Colab事例](MDDSC_A1803.ipynb)、 [紹介スライド](MDDSC_MLコンペ紹介181228.pdf)]
-- **[7] 経済産業省 未来の教室「データサイエンティスト人材育成公開講座19-02」** 2019.2 [[成果スライド](経産成果報告190225.pdf)]
+- **[5]2018年度 Amazon Web Service機械学習PBLセミナー アイデアソン　2018.11.7** [[開催報告](http://md-dsc.com/events/20181107event.php)、[スライド手順](EK_AWSPBL181107.pdf)]
+- **[6]第1回MDDSC機械学習コンペティション2019.1.22** [[開催報告](http://md-dsc.com/events/20190122event.php)、 [Google Colab事例](MDDSC_A1803.ipynb)、 [スライド紹介](MDDSC_MLコンペ紹介181228.pdf)]
+- **[7] 経済産業省 未来の教室「データサイエンティスト人材育成公開講座19-02」** 2019.2 [[スライド成果報告](経産成果報告190225.pdf)]
 
 ----
 
