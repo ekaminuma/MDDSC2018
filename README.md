@@ -3,9 +3,9 @@
 e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Google Colabのプログラム実習教材、を提供しています。
 2018.4.1から2年間有効です。
 
-- **[1]次世代シーケンサ解析第 1回 2018.7.4** [[目次](https://github.com/ekaminuma/MDDSC2018/blob/master/README.md#NGS1)]
-- **[2]次世代シーケンサ解析第 2回 2018.7.11** [[目次](https://github.com/ekaminuma/MDDSC2018/blob/master/README.md#NGS2)]
-- **[3]次世代シーケンサ解析第 3回 2018.8.1** [[目次](https://github.com/ekaminuma/MDDSC2018/blob/master/README.md#NGS3)]
+- **[1]次世代シーケンサ解析第 1回 2018.7.4** [[目次](#NGS1)]
+- **[2]次世代シーケンサ解析第 2回 2018.7.11** [[目次](#NGS2)]
+- **[3]次世代シーケンサ解析第 3回 2018.8.1** [[目次](#NGS3)]
 - **[4]Linux実習（必要により追加した実習）2018.11.27** [目次、Google Colab実習]
 - **[5]2018年度 Amazon Web Service機械学習PBLセミナー アイデアソン　2018.11.7** [[開催報告](http://md-dsc.com/events/20181107event.php),スライド]
 - **[6]第1回MDDSC機械学習コンペティション2019.1.22** [[開催報告](http://md-dsc.com/events/20190122event.php), Google Colab事例,スライド]
@@ -31,9 +31,9 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 ##　教材目次一覧
 
 -- [<img src="EK_NGS講習180704FIN.png" alt="次世代シーケンサ解析第1回目次" title="NGS2018-1-CONTENTS" width="640" />
-](#NGS1)
--- [<img src="EK_NGS講習180711FIN.png" alt="次世代シーケンサ解析第2回目次" title="NGS2018-2-CONTENTS" width="640" />](#NGS2)
--- [<img src="EK_NGS講習180801FIN.png" alt="次世代シーケンサ解析第3回目次" title="NGS2018-3-CONTENTS" width="640" />](#NGS3)
+](##NGS1)
+-- [<img src="EK_NGS講習180711FIN.png" alt="次世代シーケンサ解析第2回目次" title="NGS2018-2-CONTENTS" width="640" />](##NGS2)
+-- [<img src="EK_NGS講習180801FIN.png" alt="次世代シーケンサ解析第3回目次" title="NGS2018-3-CONTENTS" width="640" />](##NGS3)
 
 ----
 
