@@ -23,7 +23,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 ## 第1回MDDSC機械学習コンペティション
 
 インプリメント賞（モデリング賞）の為の事例用PythonプログラムをGoogle Colabで作成しました。
-
+ <img src="MLCOMP1_Form.png" alt="MLCOMP FORM" title="MLCOMP" width="640" />
 ----
 ----
 
